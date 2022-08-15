@@ -5,6 +5,6 @@
 - 📫 Reach me at mybiz123notes@gmail.com
 
 <!---
-mybiz123/mybiz123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mybiz123/readme.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
